@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: brown;
+}
+
+.student {
+    margin: 20px auto;
+    background-color: cornsilk;
+    width: 300px;
+    padding: 40px;
+    background-color: cornsilk;
+    margin: 20px auto;
+    border-radius: 10px;
+    transition: 2s all;
+}    
+
+h2 {
+    color:cornsilk;
+}
+
+
+.student img {
+    width: 300px; 
+    border-radius: 30px;
+}
